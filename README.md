@@ -6,7 +6,7 @@ Affiche en temps réel le **titre de la musique en cours sur Spotify** sur un é
 
 ## 📷 Aperçu
 
-<img src="images/preview.jpg" alt="aperçu du projet" width="500"/>
+
 
 ---
 
@@ -17,7 +17,7 @@ Affiche en temps réel le **titre de la musique en cours sur Spotify** sur un é
 | Arduino UNO            | Carte microcontrôleur principale     |
 | Écran LCD 1602         | Affichage 16 colonnes × 2 lignes     |
 | Module I2C (optionnel) | Pour simplifier les connexions LCD  |
-| Câbles Dupont          | Pour relier l'écran à l'Arduino      |
+| Câbles                 | Pour relier l'écran à l'Arduino      |
 | Ordinateur             | Avec Python + API Spotify            |
 
 ---
@@ -55,9 +55,3 @@ Affiche en temps réel le **titre de la musique en cours sur Spotify** sur un é
 
 ---
 
-## 🐍 Configuration Python
-
-### 🛠️ Dépendances
-
-```bash
-pip install spotipy pyserial
