@@ -6,6 +6,7 @@ Affiche en temps réel le **titre de la musique en cours sur Spotify** sur un é
 
 ## 📷 Aperçu
 
+![schemaarduinospotify](https://github.com/user-attachments/assets/bcc0139b-5323-429a-8d9c-05beb40d40eb)
 
 
 ---
