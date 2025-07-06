@@ -49,9 +49,9 @@ Affiche en temps réel le **titre de la musique en cours sur Spotify** sur un é
 
 | Fichier                      | Description                                 |
 |-----------------------------|---------------------------------------------|
-| `spotify_arduino.ino`       | Code Arduino : lecture série + affichage LCD |
-| `spotify_script.py`         | Script Python : API Spotify + port série     |
-| `images/preview.jpg`        | Capture du projet                            |
+| `arduino_lcd_scroll.ino`       | Code Arduino : lecture série + affichage LCD |
+| `spotifyAPI.py`         | Script Python : API Spotify + port série     |
+| `images/schema.jpeg`        | Capture du projet                            |
 
 ---
 
